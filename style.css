@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color:#455A64;
+    background-color: #455A64;
 }
 
 /* Estilos para el encabezado */
@@ -20,17 +20,20 @@ article {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ddd;
+    text-align: center; /* Centrar contenido en los artículos */
 }
 
 /* Estilos para los títulos de los artículos */
 article h2 {
     color: #333;
-    text-align: center;
 }
 
 /* Estilos para el contenido de los artículos */
 article p {
     color: #555;
+}
+
+footer {
     text-align: center;
 }
 
@@ -42,12 +45,4 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-object {
-    text-align: center;
-}
-
-.center {
-    text-align: center;
 }
