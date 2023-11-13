@@ -1,0 +1,44 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#455A64;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #607D8B;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para los artículos */
+article {
+    background-color: #CFD8DC;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Estilos para los títulos de los artículos */
+article h2 {
+    color: #333;
+    text-align: center;
+}
+
+/* Estilos para el contenido de los artículos */
+article p {
+    color: #555;
+}
+
+/* Estilos para los enlaces */
+a {
+    color: #0078d4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
